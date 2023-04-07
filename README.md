@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Fickson Ngozo</h1>
 
-<h3 align="center">"Multi-talented software engineer with over 6 years’ experience in mobile, web and applications development. I am a fast learner and love new challenges."</h3>
+<h3 align="center">"Multi-talented software engineer with over 9 years’ experience in mobile, web and applications development. I am a fast learner and love new challenges."</h3>
 
 <p align="left"> <a href="https://twitter.com/joelfickson" target="blank"><img src="https://img.shields.io/twitter/follow/joelfickson?logo=twitter&style=for-the-badge" alt="joelfickson" /></a> </p>
 
@@ -21,11 +21,6 @@
 <p align="left">
 <a target='_blank' href="https://twitter.com/joelfickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelfickson" height="30" width="40" /></a>
 <a target='_blank' href="https://linkedin.com/in/joelfickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelfickson" height="30" width="40" /></a>
-<a target='_blank' href="https://fb.com/joelngozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joelngozo" height="30" width="40" /></a>
 <a target='_blank' href="https://medium.com/@joelfickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joelfickson" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelfickson&show_icons=true&locale=en&layout=compact" alt="joelfickson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelfickson&" alt="joelfickson" /></p>
