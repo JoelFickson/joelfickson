@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, NodeJs, Typescript, Go, Java, PHP, Symfony**
 
-- 📫 How to reach me **joel@vwaza.com**
+- 📫 How to reach me **hello@joelfickson.com**
 
 
 <h3 align="left">Connect with me:</h3>
