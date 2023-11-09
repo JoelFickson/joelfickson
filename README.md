@@ -1,26 +1,41 @@
-<h1 align="center">Hi 👋, I'm Joel Fickson Ngozo</h1>
+## Hi, I am Joel, Fickson Ngozo
+I am a multi-talented senior full-stack software engineer with over 8 years of experience in building software
+applications. I like to think that I am also a good teacher who loves knowledge sharing. I am a fast learner and love new challenges.
 
-<h3 align="center">"Multi-talented software engineer with over 9 years’ experience in mobile, web and applications development. I am a fast learner and love new challenges."</h3>
+###  Current Projects
+~~Entrepreneur~~  Innovator is a better word to describe me. I love creating. Follow my startups:
+1. Elior Health : https://github.com/EliorHealth
+2. Vwaza Multimedia : https://github.com/Vwaza
 
-<p align="left"> <a href="https://twitter.com/joelfickson" target="blank"><img src="https://img.shields.io/twitter/follow/joelfickson?logo=twitter&style=for-the-badge" alt="joelfickson" /></a> </p>
+### Technologies I work With
+- Typescript/Javascript[Nodejs, NextJs, Fastify, etc]
+	- React/NextJs
+	- NodeJs/Koa/Fastify
+- Rust 
+	- Axum/Axum
+- Dart [Flutter]
+- Java [Who doesn't like '3 Billion Devices Run ...' ]
+	- SpringBoot 
+- PHP[Every developer from my era writes PHP 😄]
+	- Symfony
+- Sprinkle in a bit of Go[ Just for control! ]
+- `if(project_needs_python) I will write it` | Third  language I learned[ VB.Net, PHP, Python]
+- GraphQL
 
-- 🔭 I’m currently working on [Vwaza](vwaza.comn)
+### Interests
+1. Web Servers  => I will let you RESTFully if you give me `C8H10N4O2`
+2. Mobile Development, I think I am a pretty decent mobile app dev. 
+3. I suck at UI/X design but Implementation? Bet!
 
-- 🌱 I’m currently learning **Go, DevOps**
+### Areas of Interest
+1. Digital Healthcare
+2. eCommerce
+3. FinTech
+4. Digital Media
 
-- 👯 I’m looking to collaborate on **Backend, Frontend and DevOps + Startups**
-
-- 👨‍💻 All of my projects are available at [imjoel.dev](imjoel.dev)
-
-- 💬 Ask me about **React, NodeJs, Typescript, Go, Java, PHP, Symfony**
-
-- 📫 How to reach me **hello@joelfickson.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target='_blank' href="https://twitter.com/joelfickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelfickson" height="30" width="40" /></a>
-<a target='_blank' href="https://linkedin.com/in/joelfickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelfickson" height="30" width="40" /></a>
-<a target='_blank' href="https://medium.com/@joelfickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joelfickson" height="30" width="40" /></a>
-</p>
+### Get In Touch
+1. Linkedin => https://www.linkedin.com/in/joelfickson
+2. Twitter => https://www.twitter.com/joelfickson
+3. Medium => https://medium.com/@joelfickson
+4. Email => hello@joelfickson.com ⚠️[Please don't spam me]
 
