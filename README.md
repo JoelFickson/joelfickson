@@ -1,4 +1,4 @@
-## Hi, I am Joel, Fickson Ngozo
+## Hi I am Joel, Fickson Ngozo
 I am a multi-talented senior full-stack software engineer with over 8 years of experience in building software
 applications. I like to think that I am also a good teacher who loves knowledge sharing. I am a fast learner and love new challenges.
 
