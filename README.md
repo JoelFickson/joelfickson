@@ -37,5 +37,4 @@ applications. I like to think that I am also a good teacher who loves knowledge 
 1. Linkedin => https://www.linkedin.com/in/joelfickson
 2. Twitter => https://www.twitter.com/joelfickson
 3. Medium => https://medium.com/@joelfickson
-4. Email => hello@joelfickson.com ⚠️[Please don't spam me]
 
